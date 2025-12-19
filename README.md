@@ -18,7 +18,7 @@
 
 ### Key Libraries & Packages
 - **State Management**: Scoped Model for reactive state management
-- **Location Services**: Geolocator, Geocoding, GeoFlutterFire Plus for location-based features
+- **Location Services**: Geolocator, Geocoding, geoflutterfire_plus for location-based features
 - **UI Components**: 
   - Carousel Slider for image galleries
   - Cached Network Image for optimized image loading
@@ -137,7 +137,7 @@
 - **Cross-Platform Deployment**: Successfully deployed on Android and Web platforms
 - **Real-Time Synchronization**: Instant updates across all connected devices
 - **Scalable Architecture**: Firebase infrastructure supporting concurrent users
-- **Secure Authentication**: Multi-factor authentication with Firebase Auth
+- **Secure Authentication**: Email/password and OAuth authentication with Firebase Auth
 - **Optimized Performance**: Cached images, lazy loading, and efficient state management
 - **Responsive Design**: Adaptive UI for phones, tablets, and desktops
 
